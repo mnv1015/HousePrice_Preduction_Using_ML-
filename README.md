@@ -24,8 +24,7 @@ pip install pandas numpy matplotlib seaborn
 
 ## How to Run
 1. Clone the repository  
-git clone https://github.com/yourusername/house-pricing-analysis.git
-
+git clone [(https://github.com/mnv1015/HousePrice_Preduction_Using_ML-/blob/main/HousePrice_prediction_Uisng_ML.ipynb)]
 2. Open the project folder  
 cd house-pricing-analysis
 
